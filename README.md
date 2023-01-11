@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+📚 I'm an educator turned software engineer with a passion for problem solving and learning! I love that there are always new technologies to learn and challenge myself with as a software developer. <p>
+💻 At App Academy, I created three full-stack web apps using JavaScript, Python, Flask, Express.js, React.js, Redux, HTML and CSS3, and SQLAlchemy. One of these apps was a group project in which we cloned the app Habitica. <p>
+👩🏼‍💻 My most recent project was an app inspired by GoodReads that focuses on children's literature, where users can share and review books. I love the idea of being able to contribute to the education community and help to facilitate learning in a totally new way! 
+<p>
+⭐️ I'm looking forward to adding further functionality to the apps I've worked on as well as adding to my skill set as I work on the job search. 
+<p>
+🏃🏼‍♀️ Away from the keyboard I've completed two marathons (currently training for Pittsburgh!) and love to run, read, cook, cheer for/yell at the Philadelphia Eagles, and hang with my husband Zack and Boxer rescue dog Porky.
+
 <!--
 **eomcikus/eomcikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

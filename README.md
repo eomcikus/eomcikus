@@ -7,6 +7,8 @@
 ⭐️ I'm looking forward to adding further functionality to the apps I've worked on as well as adding to my skill set as I work on the job search. 
 <p>
 🏃🏼‍♀️ Away from the keyboard I've completed two marathons (currently training for Pittsburgh!) and love to run, read, cook, cheer for/yell at the Philadelphia Eagles, and hang with my husband Zack and Boxer rescue dog Porky.
+  
+  [![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomcikus)](https://github.com/eomcikus/github-readme-stats)
 <!--
 **eomcikus/eomcikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
